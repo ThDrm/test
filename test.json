@@ -1,2715 +1,385 @@
-{
-    "nodes": [
-        {
-            "name": "DVP",
-            "group": "En service"
-        },
-        {
-            "name": "Foxray (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Fox Icc (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Fox Iacc (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Intranet-délib",
-            "group": "En service"
-        },
-        {
-            "name": "Fiches projets (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "GEDs partenaires techniques",
-            "group": "En service"
-        },
-        {
-            "name": "Outil Bilan SEC",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Outil Bilan SEG",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Instrument Inspector",
-            "group": "En service"
-        },
-        {
-            "name": "PMV (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "PMV (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "PMV (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC Pompage Hall d'essai",
-            "group": "En service"
-        },
-        {
-            "name": "Commande Réactif",
-            "group": "En service"
-        },
-        {
-            "name": "Review Eurotherm",
-            "group": "En service"
-        },
-        {
-            "name": "BW MicroDock II",
-            "group": "En service"
-        },
-        {
-            "name": "Taupe 32",
-            "group": "En service"
-        },
-        {
-            "name": "Lascar Electronics EL-Win-USB",
-            "group": "En service"
-        },
-        {
-            "name": "Environnement SA WinScan",
-            "group": "En service"
-        },
-        {
-            "name": "TdB Comité d’exploitation_CGI",
-            "group": "Futur"
-        },
-        {
-            "name": "Festo",
-            "group": "En service"
-        },
-        {
-            "name": "Calcul NPP",
-            "group": "Futur"
-        },
-        {
-            "name": "DBO",
-            "group": ""
-        },
-        {
-            "name": "SimFlux1",
-            "group": ""
-        },
-        {
-            "name": "Aide au dépannage électrique",
-            "group": "Futur"
-        },
-        {
-            "name": "???_Maquette_BIM",
-            "group": "Futur"
-        },
-        {
-            "name": "Gestion et planification Dépotage_Réactifs (tous les sites hors SEV)",
-            "group": "Futur"
-        },
-        {
-            "name": "???_SGO",
-            "group": "Futur"
-        },
-        {
-            "name": "ORAGES (SEV_SAM_MAV_SEC_DSAR)",
-            "group": "Futur"
-        },
-        {
-            "name": "DEMAO (SAM_SEC_SEG)",
-            "group": "Futur"
-        },
-        {
-            "name": "Outil de simulation process (jumeaux numérique)",
-            "group": "Futur"
-        },
-        {
-            "name": "IHM Supervision Unique",
-            "group": "Futur"
-        },
-        {
-            "name": "Solution EAE",
-            "group": "Futur"
-        },
-        {
-            "name": "Edge computing",
-            "group": "Futur"
-        },
-        {
-            "name": "Gest-inter",
-            "group": "En service"
-        },
-        {
-            "name": "Visu Courbes",
-            "group": "En service"
-        },
-        {
-            "name": "VERSEAU",
-            "group": "En service"
-        },
-        {
-            "name": "RESEAU",
-            "group": "En service"
-        },
-        {
-            "name": "AUTOSTEP",
-            "group": "Non Utilisé"
-        },
-        {
-            "name": "Outil suivi d'exploitation (OER)",
-            "group": "Futur"
-        },
-        {
-            "name": "???_ERP",
-            "group": "Futur"
-        },
-        {
-            "name": "???_GED Technique",
-            "group": "Futur"
-        },
-        {
-            "name": "FME",
-            "group": "En service"
-        },
-        {
-            "name": "Web Sesame",
-            "group": "En service"
-        },
-        {
-            "name": "Epanet",
-            "group": "Futur"
-        },
-        {
-            "name": "Cartographit",
-            "group": "Futur"
-        },
-        {
-            "name": "VMware Desktop Hypervisor",
-            "group": "En service"
-        },
-        {
-            "name": "Pager Duty",
-            "group": "En service"
-        },
-        {
-            "name": "SOC Advens",
-            "group": "En service"
-        },
-        {
-            "name": "Cintoo",
-            "group": "Futur"
-        },
-        {
-            "name": "LockSelf",
-            "group": "En service"
-        },
-        {
-            "name": "???_Formation_Sécu_SAV",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion Charenton (Foxstream)",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion DSAR Pierrelaye (Foxstream)",
-            "group": "Futur"
-        },
-        {
-            "name": "Anti-intrusion JC  (Foxstream)",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion Noisy (SORHEA)",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion SEC (Foxstream)",
-            "group": "En service"
-        },
-        {
-            "name": "Asset Value",
-            "group": "Futur"
-        },
-        {
-            "name": "Authenticator",
-            "group": "En service"
-        },
-        {
-            "name": "AXIS Device Manager",
-            "group": "En service"
-        },
-        {
-            "name": "AXIS IP Utility",
-            "group": "En service"
-        },
-        {
-            "name": "Bentley View",
-            "group": "En service"
-        },
-        {
-            "name": "Brevo",
-            "group": "En service"
-        },
-        {
-            "name": "BVMS Config",
-            "group": "En service"
-        },
-        {
-            "name": "Canva",
-            "group": "En service"
-        },
-        {
-            "name": "Castel IP Search",
-            "group": "En service"
-        },
-        {
-            "name": "CCT800",
-            "group": "En service"
-        },
-        {
-            "name": "Chimed",
-            "group": ""
-        },
-        {
-            "name": "ClickShare",
-            "group": "En service"
-        },
-        {
-            "name": "Commander Connect (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Contrôle d'accès PAP (Aperio)",
-            "group": "En service"
-        },
-        {
-            "name": "Drivers encodeurs de badge (HID)",
-            "group": "En service"
-        },
-        {
-            "name": "Drivers imprimantes à badge (FARGO)",
-            "group": "En service"
-        },
-        {
-            "name": "Drivers imprimantes à badge (ZEBRA)",
-            "group": "En service"
-        },
-        {
-            "name": "EGEES",
-            "group": "En service"
-        },
-        {
-            "name": "Engineering Base",
-            "group": "Futur"
-        },
-        {
-            "name": "Interphonie Charenton  (???)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie Clichy (Castel)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie Colombes (Castel)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie JC  (Castel)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie La Briche Usine (Castel)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie VAL (Castel)",
-            "group": "En service"
-        },
-        {
-            "name": "Microsoft Defender",
-            "group": "En service"
-        },
-        {
-            "name": "Microsoft PureView",
-            "group": "En service"
-        },
-        {
-            "name": "Mobile Pass",
-            "group": "En service"
-        },
-        {
-            "name": "SNC Toolbox",
-            "group": "En service"
-        },
-        {
-            "name": "TILMAN",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance Charenton (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance Colombes (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance Crosne (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance La Briche Égoutier (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance La Briche Usine (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance LCDEA (Genetec SC_)",
-            "group": "Futur"
-        },
-        {
-            "name": "Vidéosurveillance LCDEA (Honeywell)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance VAL (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie Nanterre (COMMEND)",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie SEM (COMMEND)",
-            "group": "En service"
-        },
-        {
-            "name": "WeTransfer",
-            "group": "En service"
-        },
-        {
-            "name": "XELLIP Média",
-            "group": "Futur"
-        },
-        {
-            "name": "Télérecours_fr",
-            "group": "En service"
-        },
-        {
-            "name": "Dalloz_fr",
-            "group": "En service"
-        },
-        {
-            "name": "PowerFactory",
-            "group": "En service"
-        },
-        {
-            "name": "PAT2",
-            "group": "En service"
-        },
-        {
-            "name": "Zone 21",
-            "group": ""
-        },
-        {
-            "name": "OPERAT",
-            "group": "En service"
-        },
-        {
-            "name": "SQL Server Management Studio",
-            "group": "En service"
-        },
-        {
-            "name": "Azure Data Studio",
-            "group": "En service"
-        },
-        {
-            "name": "Jupyter Notebook",
-            "group": "En service"
-        },
-        {
-            "name": "Visual Studio Code",
-            "group": "En service"
-        },
-        {
-            "name": "MICROSESAME (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SIVAL (Milestone)",
-            "group": "En service"
-        },
-        {
-            "name": "SIAAP Aerio",
-            "group": "Futur"
-        },
-        {
-            "name": "LinkedIn",
-            "group": "En service"
-        },
-        {
-            "name": "Twitter",
-            "group": "En service"
-        },
-        {
-            "name": "Facebook",
-            "group": "En service"
-        },
-        {
-            "name": "Instagram",
-            "group": "En service"
-        },
-        {
-            "name": "Youtube",
-            "group": "En service"
-        },
-        {
-            "name": "cos-siaap_fr",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe Acrobat (Reader)",
-            "group": "En service"
-        },
-        {
-            "name": "Microsoft Edge",
-            "group": "En service"
-        },
-        {
-            "name": "Parapluie",
-            "group": "En service"
-        },
-        {
-            "name": "CARL-Touch",
-            "group": "En service"
-        },
-        {
-            "name": "GEDEau (Base Patrimoniale Technique)",
-            "group": "Hors Service"
-        },
-        {
-            "name": "GEDEau (Espaces collaboratifs Projets techniques)",
-            "group": "En service"
-        },
-        {
-            "name": "Base excel Contrôle de gestion",
-            "group": "En service"
-        },
-        {
-            "name": "Interphonie SAV (COMMEND)",
-            "group": "En service"
-        },
-        {
-            "name": "MYSIRIUS",
-            "group": "En service"
-        },
-        {
-            "name": "Draw_io",
-            "group": "En service"
-        },
-        {
-            "name": "Google Chrome",
-            "group": "En service"
-        },
-        {
-            "name": "Lenovo USB Lan Driver",
-            "group": "En service"
-        },
-        {
-            "name": "FreeCAD",
-            "group": "En service"
-        },
-        {
-            "name": "PreForm",
-            "group": "En service"
-        },
-        {
-            "name": "WinSCP",
-            "group": "En service"
-        },
-        {
-            "name": "PL7 PRO (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "RSLogix 5000 (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "PL7 PRO (SEM)",
-            "group": "En service"
-        },
-        {
-            "name": "RSLogix 5000 (MAV)",
-            "group": "En service"
-        },
-        {
-            "name": "PLC 5 (MAV)",
-            "group": "En service"
-        },
-        {
-            "name": "PLC 500 (MAV)",
-            "group": "En service"
-        },
-        {
-            "name": "bouesseineaval_siaap_fr",
-            "group": "Hors Service"
-        },
-        {
-            "name": "international_siaap_fr",
-            "group": "Hors Service"
-        },
-        {
-            "name": "UnityPro (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "monbranchement_fr",
-            "group": "En service"
-        },
-        {
-            "name": "inneauvation_fr",
-            "group": "En service"
-        },
-        {
-            "name": "Base Access SAV Entretiens professionnels",
-            "group": "En service"
-        },
-        {
-            "name": "Base Access SAV Habilitations",
-            "group": "En service"
-        },
-        {
-            "name": "Portail d'entreprise Intune",
-            "group": "En service"
-        },
-        {
-            "name": "MailInBlack Protect",
-            "group": "En service"
-        },
-        {
-            "name": "Aquacalc SEM",
-            "group": "Hors Service"
-        },
-        {
-            "name": "SEE ELECTRICAL",
-            "group": "Futur"
-        },
-        {
-            "name": "Logpoint",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Zoom",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Logiciel bureautique",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Bilan jour Clichy",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Bilan jour La Briche",
-            "group": "Hors Service"
-        },
-        {
-            "name": "ALOHA",
-            "group": ""
-        },
-        {
-            "name": "Viva",
-            "group": "Futur"
-        },
-        {
-            "name": "Loop",
-            "group": "Futur"
-        },
-        {
-            "name": "Autodesk Docs",
-            "group": "Futur"
-        },
-        {
-            "name": "AutoCAD",
-            "group": "Futur"
-        },
-        {
-            "name": "Autodesk Infraworks",
-            "group": "Futur"
-        },
-        {
-            "name": "Rapports Finances PPI",
-            "group": "Futur"
-        },
-        {
-            "name": "Pastell",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (SEG)",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (SAM)",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (SEM)",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (MAV)",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (DSI-SIE)",
-            "group": "Futur"
-        },
-        {
-            "name": "Active Directory (DSI-SIA)",
-            "group": "Futur"
-        },
-        {
-            "name": "Gallery Plus",
-            "group": "En service"
-        },
-        {
-            "name": "PL7 PRO (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "Unity (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "Yokogawa (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "Predict Observer",
-            "group": "En service"
-        },
-        {
-            "name": "Hydra",
-            "group": "En service"
-        },
-        {
-            "name": "Aurora 1030 launchpad",
-            "group": "En service"
-        },
-        {
-            "name": "BOD (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "BOD mini lab (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "BOD (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Kjellink",
-            "group": "En service"
-        },
-        {
-            "name": "Chemstation",
-            "group": "En service"
-        },
-        {
-            "name": "Chromeleon",
-            "group": "En service"
-        },
-        {
-            "name": "FLOWACCESS (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "FLOWACCESS (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "LABXPRO_LABX EXPRESS",
-            "group": "En service"
-        },
-        {
-            "name": "LABX",
-            "group": "En service"
-        },
-        {
-            "name": "MAGICNET",
-            "group": "En service"
-        },
-        {
-            "name": "Merlin millénium",
-            "group": "En service"
-        },
-        {
-            "name": "Plasma Lab",
-            "group": "En service"
-        },
-        {
-            "name": "Smartchem (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "Smartchem SC200 Enviro (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "Smartchem SC450 (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "Teis2",
-            "group": "En service"
-        },
-        {
-            "name": "QTEGRA",
-            "group": "En service"
-        },
-        {
-            "name": "Open Lab CDS",
-            "group": "En service"
-        },
-        {
-            "name": "Fluoplate 2 (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "Fluoplate 2 (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "Vario macro",
-            "group": "En service"
-        },
-        {
-            "name": "VAPODEST",
-            "group": "En service"
-        },
-        {
-            "name": "SKALAR HTAccess",
-            "group": "En service"
-        },
-        {
-            "name": "Proline Soft 3",
-            "group": "En service"
-        },
-        {
-            "name": "UVProbe",
-            "group": "En service"
-        },
-        {
-            "name": "Tiamo",
-            "group": "En service"
-        },
-        {
-            "name": "Compass CDS (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Compass CDS (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "LABGUARD EVISENSE (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "LABGUARD EVISENSE (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "LABGUARD EVISENSE (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "LABGUARD 3D (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "Arcopole PRO Cadastre",
-            "group": "En service"
-        },
-        {
-            "name": "Unity Pro (DSAR)",
-            "group": "En service"
-        },
-        {
-            "name": "RSLogix 5000 (DSAR)",
-            "group": "En service"
-        },
-        {
-            "name": "PL7 (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Unity (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "RSLogix 5000 (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "PLC 5 (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "PLC 500 (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "PL7 PRO (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "RSLogix 5000 (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "InfoWorks ICM",
-            "group": "En service"
-        },
-        {
-            "name": "Odastat-G",
-            "group": "En service"
-        },
-        {
-            "name": "Labsolution",
-            "group": "En service"
-        },
-        {
-            "name": "GEN 5",
-            "group": "En service"
-        },
-        {
-            "name": "Power IQ",
-            "group": "En service"
-        },
-        {
-            "name": "ServicePilot",
-            "group": "En service"
-        },
-        {
-            "name": "MORPHOEXPERT",
-            "group": "En service"
-        },
-        {
-            "name": "GALAXY",
-            "group": "En service"
-        },
-        {
-            "name": "Cyberwatch",
-            "group": "En service"
-        },
-        {
-            "name": "Messagerie Exchange",
-            "group": "En service"
-        },
-        {
-            "name": "Tetra Damm",
-            "group": "En service"
-        },
-        {
-            "name": "VNC Viewer",
-            "group": "En service"
-        },
-        {
-            "name": "Cellsens",
-            "group": "En service"
-        },
-        {
-            "name": "Base CGI",
-            "group": "En service"
-        },
-        {
-            "name": "Comm2100 (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "PactWare",
-            "group": "En service"
-        },
-        {
-            "name": "WALLIX (DSI)",
-            "group": "En service"
-        },
-        {
-            "name": "WALLIX (SAV SCC)",
-            "group": "En service"
-        },
-        {
-            "name": "TestoConfort",
-            "group": "En service"
-        },
-        {
-            "name": "VistaChrom (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "VistaChrom (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "BIOHIT (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "SOLAAR",
-            "group": "En service"
-        },
-        {
-            "name": "Microsoft Project",
-            "group": "En service"
-        },
-        {
-            "name": "Tomanager",
-            "group": "En service"
-        },
-        {
-            "name": "Vega PactWare",
-            "group": "En service"
-        },
-        {
-            "name": "Ultraflux LS600W",
-            "group": "En service"
-        },
-        {
-            "name": "JM Concept Setline",
-            "group": "En service"
-        },
-        {
-            "name": "JM Concept Ixlog-Telis",
-            "group": "En service"
-        },
-        {
-            "name": "Sfere MC vision",
-            "group": "En service"
-        },
-        {
-            "name": "Environnement SA Wex",
-            "group": "En service"
-        },
-        {
-            "name": "Topkapi Îlot Herblay",
-            "group": "En service"
-        },
-        {
-            "name": "Comm2100 (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Plug&Track",
-            "group": "En service"
-        },
-        {
-            "name": "Antidote",
-            "group": "En service"
-        },
-        {
-            "name": "Gestion et planification Dépotage_Réactifs (SEV)",
-            "group": "En service"
-        },
-        {
-            "name": "Excel",
-            "group": "En service"
-        },
-        {
-            "name": "Word",
-            "group": "En service"
-        },
-        {
-            "name": "PowerPoint",
-            "group": "En service"
-        },
-        {
-            "name": "Outlook",
-            "group": "En service"
-        },
-        {
-            "name": "OneNote",
-            "group": "En service"
-        },
-        {
-            "name": "Teams",
-            "group": "En service"
-        },
-        {
-            "name": "Stream",
-            "group": "En service"
-        },
-        {
-            "name": "Power BI",
-            "group": "En service"
-        },
-        {
-            "name": "Power Automate",
-            "group": "En service"
-        },
-        {
-            "name": "Visio",
-            "group": "En service"
-        },
-        {
-            "name": "Planner",
-            "group": "En service"
-        },
-        {
-            "name": "ToDo",
-            "group": "En service"
-        },
-        {
-            "name": "Forms",
-            "group": "En service"
-        },
-        {
-            "name": "Sartorius Wedge (DL)",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Revit",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Civil 3D",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk ReCap Pro",
-            "group": "En service"
-        },
-        {
-            "name": "Gestion consignation (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Gestion des consignations (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "ORAGES (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "ORAGES (SEM)",
-            "group": "En service"
-        },
-        {
-            "name": "Jabra Xpress",
-            "group": "En service"
-        },
-        {
-            "name": "Apple Devices",
-            "group": "En service"
-        },
-        {
-            "name": "MailExpress",
-            "group": "En service"
-        },
-        {
-            "name": "Lists",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Storm and Sanitary Analysis",
-            "group": "En service"
-        },
-        {
-            "name": "MobaXterm",
-            "group": "En service"
-        },
-        {
-            "name": "Oracle VM VirtualBox",
-            "group": "En service"
-        },
-        {
-            "name": "Panel Pilot",
-            "group": "En service"
-        },
-        {
-            "name": "Visual Studio",
-            "group": "En service"
-        },
-        {
-            "name": "Sentinel",
-            "group": "En service"
-        },
-        {
-            "name": "Iremos Crisis",
-            "group": "En service"
-        },
-        {
-            "name": "Tyre-X",
-            "group": "En service"
-        },
-        {
-            "name": "Cisco DNA Center",
-            "group": "En service"
-        },
-        {
-            "name": "Commvault",
-            "group": "En service"
-        },
-        {
-            "name": "Pure storage",
-            "group": "En service"
-        },
-        {
-            "name": "Matlab",
-            "group": "En service"
-        },
-        {
-            "name": "SYPROS",
-            "group": "En service"
-        },
-        {
-            "name": "XLStat",
-            "group": "En service"
-        },
-        {
-            "name": "COBAZ (AFNOR)",
-            "group": "En service"
-        },
-        {
-            "name": "ProSe",
-            "group": "En service"
-        },
-        {
-            "name": "Serveurs de fichiers",
-            "group": "En service"
-        },
-        {
-            "name": "Serveur de fichiers Coripes",
-            "group": "En service"
-        },
-        {
-            "name": "HSE Compliance (Red-on-line)",
-            "group": "En service"
-        },
-        {
-            "name": "e-folio",
-            "group": "En service"
-        },
-        {
-            "name": "Opéra (AFNOR)",
-            "group": "En service"
-        },
-        {
-            "name": "Cerbère",
-            "group": "En service"
-        },
-        {
-            "name": "R-studio",
-            "group": "En service"
-        },
-        {
-            "name": "Sitadel",
-            "group": "En service"
-        },
-        {
-            "name": "SharePoint",
-            "group": "En service"
-        },
-        {
-            "name": "OneDrive",
-            "group": "En service"
-        },
-        {
-            "name": "VeoliaLink",
-            "group": "En service"
-        },
-        {
-            "name": "Anaconda (Python)",
-            "group": "Futur"
-        },
-        {
-            "name": "Espace client certification (AFNOR)",
-            "group": "En service"
-        },
-        {
-            "name": "Parcours croisé (AFNOR)",
-            "group": "En service"
-        },
-        {
-            "name": "Mnesys Expo",
-            "group": "Futur"
-        },
-        {
-            "name": "PTouch",
-            "group": "Futur"
-        },
-        {
-            "name": "Sites presse (abo revues)",
-            "group": "En service"
-        },
-        {
-            "name": "Olvid",
-            "group": "En service"
-        },
-        {
-            "name": "SYPROS (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Tournée Messager",
-            "group": "En service"
-        },
-        {
-            "name": "BASTA",
-            "group": "Décomissionnement en cours"
-        },
-        {
-            "name": "Base Unique d'Auto-surveillance",
-            "group": "En service"
-        },
-        {
-            "name": "GRR",
-            "group": "En service"
-        },
-        {
-            "name": "GEDEau Actions (FAA)",
-            "group": "En service"
-        },
-        {
-            "name": "GEDEau QES'Doc (Qualité)",
-            "group": "En service"
-        },
-        {
-            "name": "SIP2",
-            "group": "En service"
-        },
-        {
-            "name": "biblieau_siaap_fr",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Eattestations",
-            "group": "En service"
-        },
-        {
-            "name": "COVADIS",
-            "group": "En service"
-        },
-        {
-            "name": "COSTOLWIN",
-            "group": "En service"
-        },
-        {
-            "name": "Windesign",
-            "group": "En service"
-        },
-        {
-            "name": "PACiS (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "Aveva SystemPlateform_IDE (SIVAL)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SIVAL (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "EQM",
-            "group": "En service"
-        },
-        {
-            "name": "GéoSIAAP",
-            "group": "En service"
-        },
-        {
-            "name": "GLPI (DSI)",
-            "group": "En service"
-        },
-        {
-            "name": "ATAL",
-            "group": "En service"
-        },
-        {
-            "name": "Elise",
-            "group": "En service"
-        },
-        {
-            "name": "Prorisq",
-            "group": "En service"
-        },
-        {
-            "name": "RH21",
-            "group": "En service"
-        },
-        {
-            "name": "COS Election",
-            "group": "En service"
-        },
-        {
-            "name": "SGCS",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC DI (Panorama)",
-            "group": "Hors Service"
-        },
-        {
-            "name": "GTB (Colombes)",
-            "group": "En service"
-        },
-        {
-            "name": "PACiS (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "PACiS (VAL)",
-            "group": "En service"
-        },
-        {
-            "name": "PACiS (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "PACiS (SEC et SPID)",
-            "group": "En service"
-        },
-        {
-            "name": "Commander Connect (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Commander Connect (JC)",
-            "group": "En service"
-        },
-        {
-            "name": "ALERT SAM",
-            "group": "En service"
-        },
-        {
-            "name": "ALERT SEM",
-            "group": "En service"
-        },
-        {
-            "name": "ALERT MAV",
-            "group": "En service"
-        },
-        {
-            "name": "ALERT SEG",
-            "group": "En service"
-        },
-        {
-            "name": "CVMail",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Aveva SystemPlateform_IDE (SEM)",
-            "group": "En service"
-        },
-        {
-            "name": "Orphée (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Fox EVO _ IDE (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Aveva SystemPlateform_IDE (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Hypervision PCS5 (SAV)",
-            "group": "Futur"
-        },
-        {
-            "name": "ALX70",
-            "group": "En service"
-        },
-        {
-            "name": "CANECO (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "CANECO (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "CANECO (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "Gaïa",
-            "group": "Hors Service"
-        },
-        {
-            "name": "GEF",
-            "group": "En service"
-        },
-        {
-            "name": "GLPI (SAV-SCC)",
-            "group": "En service"
-        },
-        {
-            "name": "GLPI (SAV-Méthodes)",
-            "group": "En service"
-        },
-        {
-            "name": "Kolibri",
-            "group": "En service"
-        },
-        {
-            "name": "Y-ARI",
-            "group": "En service"
-        },
-        {
-            "name": "eMonitor",
-            "group": "En service"
-        },
-        {
-            "name": "MICROSESAME",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SAV (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SEM (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance JC (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance Nanterre (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance Clichy (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance MAV (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SEM (RS Manager)",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Fleet Manager II (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Fleet Manager II (SEC)",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Fleet Manager II (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Tadéo BOX",
-            "group": "En service"
-        },
-        {
-            "name": "StradaTime (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "StradaTime (DAL)",
-            "group": "En service"
-        },
-        {
-            "name": "WINKHAUS JC",
-            "group": "En service"
-        },
-        {
-            "name": "WINKHAUS Clichy",
-            "group": "En service"
-        },
-        {
-            "name": "Parapheur électronique AWS-Signature",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Eyes of Network (DSI)",
-            "group": "En service"
-        },
-        {
-            "name": "Nagios (DSAR)",
-            "group": "En service"
-        },
-        {
-            "name": "Eyes of Network (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Eyes of Network (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "GRIF Workshop",
-            "group": "En service"
-        },
-        {
-            "name": "NetGeo2",
-            "group": "Futur"
-        },
-        {
-            "name": "ALWIN",
-            "group": "Hors Service"
-        },
-        {
-            "name": "GTB JC",
-            "group": "En service"
-        },
-        {
-            "name": "GTB Campus",
-            "group": "En service"
-        },
-        {
-            "name": "Logitruck",
-            "group": "En service"
-        },
-        {
-            "name": "Truck Flow",
-            "group": "Futur"
-        },
-        {
-            "name": "G'NEX (SAE)",
-            "group": "En service"
-        },
-        {
-            "name": "G'NEX (Patrimoine)",
-            "group": "Non Utilisé"
-        },
-        {
-            "name": "Main courante Pompiers (EPSITRONIC)",
-            "group": "En service"
-        },
-        {
-            "name": "SICK MEAC",
-            "group": "En service"
-        },
-        {
-            "name": "NOVA Taxation",
-            "group": "En service"
-        },
-        {
-            "name": "Main courante Osiris Sécurity",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Vidéosurveillance SAV (HIKVision Nashe)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SEG (Genetec SC_)",
-            "group": "En service"
-        },
-        {
-            "name": "Triconex",
-            "group": "En service"
-        },
-        {
-            "name": "GLEPI SODEX (SAM)",
-            "group": "En service"
-        },
-        {
-            "name": "GLEPI SODEX (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "GLEPI SODEX (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "Pastis",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion Honeywell (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Anti-intrusion Honeywell (LCDEA)",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (DSAR)",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance SEC (BOSCH)",
-            "group": "Hors Service"
-        },
-        {
-            "name": "CLIQ MANAGER",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (SEC)",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (UPBD)",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (UPEI SCC)",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (UPEI RSI)",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (UPEI VSCC)",
-            "group": "En service"
-        },
-        {
-            "name": "Mur d'images SAV",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Nugelec)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Chubb)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Sicli)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Sefi)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Def)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SAV (Siemens)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SEC (Def)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie SEG (Def)",
-            "group": "En service"
-        },
-        {
-            "name": "Sécurité Incendie DSI (ioLogik)",
-            "group": "En service"
-        },
-        {
-            "name": "Main courante SAV (Guardtek)",
-            "group": "En service"
-        },
-        {
-            "name": "Synoptique PCC AIII Management visuel",
-            "group": "Hors Service"
-        },
-        {
-            "name": "Winstar",
-            "group": "En service"
-        },
-        {
-            "name": "Mur d'images SEG",
-            "group": "Futur"
-        },
-        {
-            "name": "Gestion de l'information_écrans (Service 1 et 5)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli Gestion des livraisons réactifs (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli Enregistrement_recherche des observations (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli d'aide à la Gestion des membranaires (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli Surveillance santé membranaires (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli Recherche matériel (PID_doc technique) (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "Appli Tableau de bord (Service 2)",
-            "group": "En service"
-        },
-        {
-            "name": "WAM Alarm Clichy",
-            "group": "En service"
-        },
-        {
-            "name": "WAM Alarm La Briche",
-            "group": "En service"
-        },
-        {
-            "name": "Statistiques Pont Peseur CO",
-            "group": "En service"
-        },
-        {
-            "name": "DS AGILE",
-            "group": "En service"
-        },
-        {
-            "name": "VERTELIS",
-            "group": "En service"
-        },
-        {
-            "name": "Vidéosurveillance DSAR Pierrelaye (Genetec SC_)",
-            "group": "Futur"
-        },
-        {
-            "name": "Keyware",
-            "group": "En service"
-        },
-        {
-            "name": "Noam Engineering",
-            "group": "En service"
-        },
-        {
-            "name": "Outil de pesage Colombes",
-            "group": "Futur"
-        },
-        {
-            "name": "SimonsVoss (LCDEA)",
-            "group": "En service"
-        },
-        {
-            "name": "MESURESTEP",
-            "group": "En service"
-        },
-        {
-            "name": "Data Logger Transfer",
-            "group": "En service"
-        },
-        {
-            "name": "adhesion-cos",
-            "group": "En service"
-        },
-        {
-            "name": "CORIDEMAT",
-            "group": "En service"
-        },
-        {
-            "name": "BO RH",
-            "group": "En service"
-        },
-        {
-            "name": "GUEPARDS",
-            "group": "En service"
-        },
-        {
-            "name": "Normea",
-            "group": "En service"
-        },
-        {
-            "name": "Biblieau",
-            "group": "En service"
-        },
-        {
-            "name": "eSocialOffice",
-            "group": "En service"
-        },
-        {
-            "name": "Intranet",
-            "group": "En service"
-        },
-        {
-            "name": "Preventiel",
-            "group": "En service"
-        },
-        {
-            "name": "siaap_fr",
-            "group": "En service"
-        },
-        {
-            "name": "Mémeau [Mnesys]",
-            "group": "En service"
-        },
-        {
-            "name": "Kbox",
-            "group": "En service"
-        },
-        {
-            "name": "Talent",
-            "group": "En service"
-        },
-        {
-            "name": "ORAGES (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "Indicateurs de disponibilité (SEG)",
-            "group": "En service"
-        },
-        {
-            "name": "DEMAO (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "MeSeine (Topkapi + Aquacalc)",
-            "group": "En service"
-        },
-        {
-            "name": "SNAPI-CAP",
-            "group": "En service"
-        },
-        {
-            "name": "SNAPI-RDVEMPLOI",
-            "group": "En service"
-        },
-        {
-            "name": "GEDEau (Base Marchés)",
-            "group": "Décomissionnement en cours"
-        },
-        {
-            "name": "Hypervision (DT)",
-            "group": "Futur"
-        },
-        {
-            "name": "Atelier salarial",
-            "group": "En service"
-        },
-        {
-            "name": "Lames d’eau Météo France",
-            "group": "En service"
-        },
-        {
-            "name": "Portail Météo France",
-            "group": "En service"
-        },
-        {
-            "name": "EDEN",
-            "group": "En service"
-        },
-        {
-            "name": "CARL Source",
-            "group": "En service"
-        },
-        {
-            "name": "e-GF",
-            "group": "En service"
-        },
-        {
-            "name": "GEDEau (GED et espaces collaboratifs généraux)",
-            "group": "En service"
-        },
-        {
-            "name": "AGILIMS",
-            "group": "En service"
-        },
-        {
-            "name": "MAGES",
-            "group": "En service"
-        },
-        {
-            "name": "Aquedi",
-            "group": "En service"
-        },
-        {
-            "name": "Chronogestor",
-            "group": "En service"
-        },
-        {
-            "name": "CIVI-RH",
-            "group": "En service"
-        },
-        {
-            "name": "EVE'M",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SAV UPBD - Panorama (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SAV UPEI- Foxboro (SAV)",
-            "group": "En service"
-        },
-        {
-            "name": "Oxymel",
-            "group": "En service"
-        },
-        {
-            "name": "PlanetPress",
-            "group": "En service"
-        },
-        {
-            "name": "FAST",
-            "group": "En service"
-        },
-        {
-            "name": "GTC DSAR (PCVue)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC Sésame (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC Crosne (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC MAV (RSView)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SEC Clichy (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SEC Colombes (RSView)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SEC La Briche (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "SIOE",
-            "group": "En service"
-        },
-        {
-            "name": "ALERT DSAR",
-            "group": "En service"
-        },
-        {
-            "name": "CORIPES (e-FP)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SEM (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "SNCC SEG (InTouch)",
-            "group": "En service"
-        },
-        {
-            "name": "TOIP_Avaya",
-            "group": "En service"
-        },
-        {
-            "name": "iParapheur",
-            "group": "En service"
-        },
-        {
-            "name": "OPS",
-            "group": "En service"
-        },
-        {
-            "name": "Portail Chorus Pro",
-            "group": "En service"
-        },
-        {
-            "name": "Portail DGFIP (HELIOS)",
-            "group": "En service"
-        },
-        {
-            "name": "SIS-AWS",
-            "group": "En service"
-        },
-        {
-            "name": "TotEM",
-            "group": "En service"
-        },
-        {
-            "name": "Pass-SIAAP",
-            "group": "En service"
-        },
-        {
-            "name": "SKF @ptitude Observer",
-            "group": "En service"
-        },
-        {
-            "name": "XéMélios",
-            "group": "En service"
-        },
-        {
-            "name": "Base Access SAV Effectif",
-            "group": "En service"
-        },
-        {
-            "name": "Base Access SAV Éléments variables Paie",
-            "group": "En service"
-        },
-        {
-            "name": "Base Access SAV Tickets restaurant",
-            "group": "En service"
-        },
-        {
-            "name": "Active Directory (DSI-SI Gestion)",
-            "group": "En service"
-        },
-        {
-            "name": "CORIBUDG",
-            "group": "En service"
-        },
-        {
-            "name": "BO Finances",
-            "group": "En service"
-        },
-        {
-            "name": "Portail vigicrues",
-            "group": "En service"
-        },
-        {
-            "name": "SIS-Marchés",
-            "group": "En service"
-        },
-        {
-            "name": "ArcGIS",
-            "group": "En service"
-        },
-        {
-            "name": "AutoCAD Map",
-            "group": "En service"
-        },
-        {
-            "name": "AutoCAD LT",
-            "group": "En service"
-        },
-        {
-            "name": "DHI West",
-            "group": "En service"
-        },
-        {
-            "name": "QES'Doc Ennov",
-            "group": "En service"
-        },
-        {
-            "name": "Zed! Pro",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Navisworks Manage",
-            "group": "En service"
-        },
-        {
-            "name": "Forticlient VPN",
-            "group": "En service"
-        },
-        {
-            "name": "AutoDesk DWG TrueView",
-            "group": "En service"
-        },
-        {
-            "name": "VLC Media Player",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe Illustrator",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe InDesign",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe Photoshop",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe Premiere Pro",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Design Review",
-            "group": "En service"
-        },
-        {
-            "name": "Autodesk Navisworks Freedom",
-            "group": "En service"
-        },
-        {
-            "name": "Citrix Receiver",
-            "group": "En service"
-        },
-        {
-            "name": "FileOpen Client",
-            "group": "En service"
-        },
-        {
-            "name": "Notepad++",
-            "group": "En service"
-        },
-        {
-            "name": "Zone central",
-            "group": "En service"
-        },
-        {
-            "name": "Sage Ciel Compta",
-            "group": "En service"
-        },
-        {
-            "name": "Libersign",
-            "group": "En service"
-        },
-        {
-            "name": "Wireshark",
-            "group": "En service"
-        },
-        {
-            "name": "Putty",
-            "group": "En service"
-        },
-        {
-            "name": "PG Admin",
-            "group": "En service"
-        },
-        {
-            "name": "Adobe Acrobat Pro",
-            "group": "En service"
-        },
-        {
-            "name": "Qgis",
-            "group": "En service"
-        },
-        {
-            "name": "7-Zip",
-            "group": "En service"
-        },
-        {
-            "name": "Trimble Connect",
-            "group": "En service"
-        },
-        {
-            "name": "Autocad Electrical",
-            "group": "En service"
-        },
-        {
-            "name": "Portail Microsoft 365 (Office)",
-            "group": "En service"
-        },
-        {
-            "name": "_Net Framework",
-            "group": "En service"
-        },
-        {
-            "name": "Lenovo System Update",
-            "group": "En service"
-        },
-        {
-            "name": "Zed! free",
-            "group": "En service"
-        }
-    ],
-    "links": [
-        {
-            "source": "EVE'M",
-            "target": "GTC DSAR (PCVue)",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "GTC DSAR (PCVue)",
-            "target": "EVE'M",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "GEDEau (GED et espaces collaboratifs généraux)",
-            "target": "siaap_fr",
-            "value": "HTTPS - (vide)"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "Mémeau [Mnesys]",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "TOIP_Avaya",
-            "target": "Active Directory (DSI-SI Gestion)",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "TOIP_Avaya",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Base Access SAV Effectif",
-            "value": "DHCP - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Effectif",
-            "target": "CIVI-RH",
-            "value": "DHCP - Fichier Plat"
-        },
-        {
-            "source": "Chronogestor",
-            "target": "Base Access SAV Effectif",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Effectif",
-            "target": "Chronogestor",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Base Access SAV Éléments variables Paie",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Éléments variables Paie",
-            "target": "CIVI-RH",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Chronogestor",
-            "target": "Base Access SAV Éléments variables Paie",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Éléments variables Paie",
-            "target": "Chronogestor",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Base Access SAV Tickets restaurant",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Tickets restaurant",
-            "target": "CIVI-RH",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Chronogestor",
-            "target": "Base Access SAV Tickets restaurant",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Base Access SAV Tickets restaurant",
-            "target": "Chronogestor",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "AGILIMS",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "EDEN",
-            "target": "SIOE",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "SIOE",
-            "target": "EDEN",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "GTC DSAR (PCVue)",
-            "target": "ALERT DSAR",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "ALERT DSAR",
-            "target": "GTC DSAR (PCVue)",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "EDEN",
-            "target": "MeSeine (Topkapi + Aquacalc)",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "EDEN",
-            "target": "GTC DSAR (PCVue)",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "GTC DSAR (PCVue)",
-            "target": "EDEN",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "EDEN",
-            "target": "MAGES",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "MAGES",
-            "target": "EDEN",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Lames d’eau Météo France",
-            "target": "MAGES",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "MAGES",
-            "target": "EVE'M",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "SNCC MAV (RSView)",
-            "target": "Aquedi",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "SNCC SEM (InTouch)",
-            "target": "Aquedi",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "SNCC SEC Colombes (RSView)",
-            "target": "Aquedi",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "SNCC SEC Clichy (InTouch)",
-            "target": "Aquedi",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "SNCC SEC La Briche (InTouch)",
-            "target": "Aquedi",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "Aquedi",
-            "value": "Auth - Auth"
-        },
-        {
-            "source": "AGILIMS",
-            "target": "Aquedi",
-            "value": "Web Services - (vide)"
-        },
-        {
-            "source": "Aquedi",
-            "target": "AGILIMS",
-            "value": "Web Services - (vide)"
-        },
-        {
-            "source": "ArcGIS",
-            "target": "GUEPARDS",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "Biblieau",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "OPS",
-            "target": "CARL Source",
-            "value": "Web Services - (vide)"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Chronogestor",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "Chronogestor",
-            "target": "CIVI-RH",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "BO RH",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Normea",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Preventiel",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Talent",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "eSocialOffice",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Pass-SIAAP",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Active Directory (DSI-SI Gestion)",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "e-GF",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "Active Directory (DSI-SI Gestion)",
-            "target": "Intranet",
-            "value": "(vide) - (vide)"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Oxymel",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "Oxymel",
-            "target": "CIVI-RH",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "PlanetPress",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "PlanetPress",
-            "target": "CIVI-RH",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "EDEN",
-            "target": "SNCC SAV UPEI- Foxboro (SAV)",
-            "value": "FTP - (vide)"
-        },
-        {
-            "source": "SNCC SAV UPEI- Foxboro (SAV)",
-            "target": "CARL Source",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "SNCC SAV UPBD - Panorama (SAV)",
-            "target": "CARL Source",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CARL Source",
-            "target": "e-GF",
-            "value": "Web Services - (vide)"
-        },
-        {
-            "source": "e-GF",
-            "target": "CARL Source",
-            "value": "(vide) - Fichier Plat"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "SNAPI-RDVEMPLOI",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "SNAPI-CAP",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "e-GF",
-            "target": "BO Finances",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Chronogestor",
-            "target": "BO RH",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CARL Source",
-            "target": "DEMAO (SAV)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC SEG (InTouch)",
-            "target": "ORAGES (SEG)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC SEG (InTouch)",
-            "target": "Indicateurs de disponibilité (SEG)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC SAV UPBD - Panorama (SAV)",
-            "target": "Hypervision (DT)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC Crosne (InTouch)",
-            "target": "Hypervision (DT)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC SAV UPEI- Foxboro (SAV)",
-            "target": "Hypervision (DT)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SNCC Sésame (InTouch)",
-            "target": "Hypervision (DT)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Portail Météo France",
-            "target": "MeSeine (Topkapi + Aquacalc)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SIS-Marchés",
-            "target": "SIS-AWS",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SIS-AWS",
-            "target": "SIS-Marchés",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SIS-Marchés",
-            "target": "GEDEau (Base Marchés)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "SKF @ptitude Observer",
-            "target": "CARL Source",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CIVI-RH",
-            "target": "Atelier salarial",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Portail vigicrues",
-            "target": "MeSeine (Topkapi + Aquacalc)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "e-GF",
-            "target": "iParapheur",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "iParapheur",
-            "target": "e-GF",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Pass-SIAAP",
-            "target": "e-GF",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "e-GF",
-            "target": "CORIPES (e-FP)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CORIPES (e-FP)",
-            "target": "e-GF",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "e-GF,e-GF",
-            "target": "CORIBUDG,CORIBUDG",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "BO Finances",
-            "target": "TotEM",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Portail DGFIP (HELIOS)",
-            "target": "e-GF",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "e-GF",
-            "target": "Portail DGFIP (HELIOS)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CORIBUDG",
-            "target": "TotEM",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "TotEM",
-            "target": "XéMélios",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "XéMélios",
-            "target": "Portail DGFIP (HELIOS)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Portail DGFIP (HELIOS)",
-            "target": "Portail Chorus Pro",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CORIPES (e-FP)",
-            "target": "Portail Chorus Pro",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "Portail Chorus Pro",
-            "target": "CORIPES (e-FP)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "CORIPES (e-FP)",
-            "target": "FAST",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "FAST",
-            "target": "CORIPES (e-FP)",
-            "value": " - NC - Sans objet"
-        },
-        {
-            "source": "TotEM",
-            "target": "Kbox",
-            "value": " - NC - Sans objet"
-        }
-    ]
-}
+{"nodes":[{"name": "DVP", "group": "En service"},{"name": "Foxray (SAV)", "group": "En service"},{"name": "Fox Icc (SAV)", "group": "En service"},{"name": "Fox Iacc (SAV)", "group": "En service"},{"name": "Intranet-délib", "group": "En service"},{"name": "Fiches projets (SAV)", "group": "En service"},{"name": "GEDs partenaires techniques", "group": "En service"},{"name": "Outil Bilan SEC", "group": "Hors Service"},{"name": "Outil Bilan SEG", "group": "Hors Service"},{"name": "Instrument Inspector", "group": "En service"},{"name": "PMV (SEC)", "group": "En service"},{"name": "PMV (SAV)", "group": "En service"},{"name": "PMV (SEG)", "group": "En service"},{"name": "SNCC Pompage Hall d'essai", "group": "En service"},{"name": "Commande Réactif", "group": "En service"},{"name": "Review Eurotherm", "group": "En service"},{"name": "BW MicroDock II", "group": "En service"},{"name": "Taupe 32", "group": "En service"},{"name": "Lascar Electronics EL-Win-USB", "group": "En service"},{"name": "Environnement SA WinScan", "group": "En service"},{"name": "TdB Comité d’exploitation_CGI", "group": "Futur"},{"name": "Festo", "group": "En service"},{"name": "Calcul NPP", "group": "Futur"},{"name": "DBO", "group": ""},{"name": "SimFlux1", "group": ""},{"name": "Aide au dépannage électrique", "group": "Futur"},{"name": "???_Maquette_BIM", "group": "Futur"},{"name": "Gestion et planification Dépotage_Réactifs (tous les sites hors SEV)", "group": "Futur"},{"name": "???_SGO", "group": "Futur"},{"name": "ORAGES (SEV_SAM_MAV_SEC_DSAR)", "group": "Futur"},{"name": "DEMAO (SAM_SEC_SEG)", "group": "Futur"},{"name": "Outil de simulation process (jumeaux numérique)", "group": "Futur"},{"name": "IHM Supervision Unique", "group": "Futur"},{"name": "Solution EAE", "group": "Futur"},{"name": "Edge computing", "group": "Futur"},{"name": "Gest-inter", "group": "En service"},{"name": "Visu Courbes", "group": "En service"},{"name": "VERSEAU", "group": "En service"},{"name": "RESEAU", "group": "En service"},{"name": "AUTOSTEP", "group": "Non Utilisé"},{"name": "Outil suivi d'exploitation (OER)", "group": "Futur"},{"name": "???_ERP", "group": "Futur"},{"name": "???_GED Technique", "group": "Futur"},{"name": "FME", "group": "En service"},{"name": "Web Sesame", "group": "En service"},{"name": "Epanet", "group": "Futur"},{"name": "Cartographit", "group": "Futur"},{"name": "VMware Desktop Hypervisor", "group": "En service"},{"name": "Pager Duty", "group": "En service"},{"name": "SOC Advens", "group": "En service"},{"name": "Cintoo", "group": "Futur"},{"name": "LockSelf", "group": "En service"},{"name": "???_Formation_Sécu_SAV", "group": "En service"},{"name": "Anti-intrusion Charenton (Foxstream)", "group": "En service"},{"name": "Anti-intrusion DSAR Pierrelaye (Foxstream)", "group": "Futur"},{"name": "Anti-intrusion JC  (Foxstream)", "group": "En service"},{"name": "Anti-intrusion Noisy (SORHEA)", "group": "En service"},{"name": "Anti-intrusion SEC (Foxstream)", "group": "En service"},{"name": "Asset Value", "group": "Futur"},{"name": "Authenticator", "group": "En service"},{"name": "AXIS Device Manager", "group": "En service"},{"name": "AXIS IP Utility", "group": "En service"},{"name": "Bentley View", "group": "En service"},{"name": "Brevo", "group": "En service"},{"name": "BVMS Config", "group": "En service"},{"name": "Canva", "group": "En service"},{"name": "Castel IP Search", "group": "En service"},{"name": "CCT800", "group": "En service"},{"name": "Chimed", "group": ""},{"name": "ClickShare", "group": "En service"},{"name": "Commander Connect (SEG)", "group": "En service"},{"name": "Contrôle d'accès PAP (Aperio)", "group": "En service"},{"name": "Drivers encodeurs de badge (HID)", "group": "En service"},{"name": "Drivers imprimantes à badge (FARGO)", "group": "En service"},{"name": "Drivers imprimantes à badge (ZEBRA)", "group": "En service"},{"name": "EGEES", "group": "En service"},{"name": "Engineering Base", "group": "Futur"},{"name": "Interphonie Charenton  (???)", "group": "En service"},{"name": "Interphonie Clichy (Castel)", "group": "En service"},{"name": "Interphonie Colombes (Castel)", "group": "En service"},{"name": "Interphonie JC  (Castel)", "group": "En service"},{"name": "Interphonie La Briche Usine (Castel)", "group": "En service"},{"name": "Interphonie VAL (Castel)", "group": "En service"},{"name": "Microsoft Defender", "group": "En service"},{"name": "Microsoft PureView", "group": "En service"},{"name": "Mobile Pass", "group": "En service"},{"name": "SNC Toolbox", "group": "En service"},{"name": "TILMAN", "group": "En service"},{"name": "Vidéosurveillance Charenton (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance Colombes (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance Crosne (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance La Briche Égoutier (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance La Briche Usine (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance LCDEA (Genetec SC_)", "group": "Futur"},{"name": "Vidéosurveillance LCDEA (Honeywell)", "group": "En service"},{"name": "Vidéosurveillance VAL (Genetec SC_)", "group": "En service"},{"name": "Interphonie Nanterre (COMMEND)", "group": "En service"},{"name": "Interphonie SEM (COMMEND)", "group": "En service"},{"name": "WeTransfer", "group": "En service"},{"name": "XELLIP Média", "group": "Futur"},{"name": "Télérecours_fr", "group": "En service"},{"name": "Dalloz_fr", "group": "En service"},{"name": "PowerFactory", "group": "En service"},{"name": "PAT2", "group": "En service"},{"name": "Zone 21", "group": ""},{"name": "OPERAT", "group": "En service"},{"name": "SQL Server Management Studio", "group": "En service"},{"name": "Azure Data Studio", "group": "En service"},{"name": "Jupyter Notebook", "group": "En service"},{"name": "Visual Studio Code", "group": "En service"},{"name": "MICROSESAME (SIVAL)", "group": "En service"},{"name": "Vidéosurveillance SIVAL (Milestone)", "group": "En service"},{"name": "SIAAP Aerio", "group": "Futur"},{"name": "LinkedIn", "group": "En service"},{"name": "Twitter", "group": "En service"},{"name": "Facebook", "group": "En service"},{"name": "Instagram", "group": "En service"},{"name": "Youtube", "group": "En service"},{"name": "cos-siaap_fr", "group": "En service"},{"name": "Adobe Acrobat (Reader)", "group": "En service"},{"name": "Microsoft Edge", "group": "En service"},{"name": "Parapluie", "group": "En service"},{"name": "CARL-Touch", "group": "En service"},{"name": "GEDEau (Base Patrimoniale Technique)", "group": "Hors Service"},{"name": "GEDEau (Espaces collaboratifs Projets techniques)", "group": "En service"},{"name": "Base excel Contrôle de gestion", "group": "En service"},{"name": "Interphonie SAV (COMMEND)", "group": "En service"},{"name": "MYSIRIUS", "group": "En service"},{"name": "Draw_io", "group": "En service"},{"name": "Google Chrome", "group": "En service"},{"name": "Lenovo USB Lan Driver", "group": "En service"},{"name": "FreeCAD", "group": "En service"},{"name": "PreForm", "group": "En service"},{"name": "WinSCP", "group": "En service"},{"name": "PL7 PRO (SAM)", "group": "En service"},{"name": "RSLogix 5000 (SAM)", "group": "En service"},{"name": "PL7 PRO (SEM)", "group": "En service"},{"name": "RSLogix 5000 (MAV)", "group": "En service"},{"name": "PLC 5 (MAV)", "group": "En service"},{"name": "PLC 500 (MAV)", "group": "En service"},{"name": "bouesseineaval_siaap_fr", "group": "Hors Service"},{"name": "international_siaap_fr", "group": "Hors Service"},{"name": "UnityPro (SAM)", "group": "En service"},{"name": "monbranchement_fr", "group": "En service"},{"name": "inneauvation_fr", "group": "En service"},{"name": "Base Access SAV Entretiens professionnels", "group": "En service"},{"name": "Base Access SAV Habilitations", "group": "En service"},{"name": "Portail d'entreprise Intune", "group": "En service"},{"name": "MailInBlack Protect", "group": "En service"},{"name": "Aquacalc SEM", "group": "Hors Service"},{"name": "SEE ELECTRICAL", "group": "Futur"},{"name": "Logpoint", "group": "Hors Service"},{"name": "Zoom", "group": "Hors Service"},{"name": "Logiciel bureautique", "group": "Hors Service"},{"name": "Bilan jour Clichy", "group": "Hors Service"},{"name": "Bilan jour La Briche", "group": "Hors Service"},{"name": "ALOHA", "group": ""},{"name": "Viva", "group": "Futur"},{"name": "Loop", "group": "Futur"},{"name": "Autodesk Docs", "group": "Futur"},{"name": "AutoCAD", "group": "Futur"},{"name": "Autodesk Infraworks", "group": "Futur"},{"name": "Rapports Finances PPI", "group": "Futur"},{"name": "Pastell", "group": "Futur"},{"name": "Active Directory (SEG)", "group": "Futur"},{"name": "Active Directory (SAM)", "group": "Futur"},{"name": "Active Directory (SEM)", "group": "Futur"},{"name": "Active Directory (MAV)", "group": "Futur"},{"name": "Active Directory (DSI-SIE)", "group": "Futur"},{"name": "Active Directory (DSI-SIA)", "group": "Futur"},{"name": "Gallery Plus", "group": "En service"},{"name": "PL7 PRO (SIVAL)", "group": "En service"},{"name": "Unity (SIVAL)", "group": "En service"},{"name": "Yokogawa (SIVAL)", "group": "En service"},{"name": "Predict Observer", "group": "En service"},{"name": "Hydra", "group": "En service"},{"name": "Aurora 1030 launchpad", "group": "En service"},{"name": "BOD (DL)", "group": "En service"},{"name": "BOD mini lab (SAM)", "group": "En service"},{"name": "BOD (SAV)", "group": "En service"},{"name": "Kjellink", "group": "En service"},{"name": "Chemstation", "group": "En service"},{"name": "Chromeleon", "group": "En service"},{"name": "FLOWACCESS (DL)", "group": "En service"},{"name": "FLOWACCESS (SAV)", "group": "En service"},{"name": "LABXPRO_LABX EXPRESS", "group": "En service"},{"name": "LABX", "group": "En service"},{"name": "MAGICNET", "group": "En service"},{"name": "Merlin millénium", "group": "En service"},{"name": "Plasma Lab", "group": "En service"},{"name": "Smartchem (DL)", "group": "En service"},{"name": "Smartchem SC200 Enviro (SAM)", "group": "En service"},{"name": "Smartchem SC450 (SAM)", "group": "En service"},{"name": "Teis2", "group": "En service"},{"name": "QTEGRA", "group": "En service"},{"name": "Open Lab CDS", "group": "En service"},{"name": "Fluoplate 2 (DL)", "group": "En service"},{"name": "Fluoplate 2 (SAM)", "group": "En service"},{"name": "Vario macro", "group": "En service"},{"name": "VAPODEST", "group": "En service"},{"name": "SKALAR HTAccess", "group": "En service"},{"name": "Proline Soft 3", "group": "En service"},{"name": "UVProbe", "group": "En service"},{"name": "Tiamo", "group": "En service"},{"name": "Compass CDS (SAV)", "group": "En service"},{"name": "Compass CDS (DL)", "group": "En service"},{"name": "LABGUARD EVISENSE (DL)", "group": "En service"},{"name": "LABGUARD EVISENSE (SAV)", "group": "En service"},{"name": "LABGUARD EVISENSE (SAM)", "group": "En service"},{"name": "LABGUARD 3D (SAM)", "group": "En service"},{"name": "Arcopole PRO Cadastre", "group": "En service"},{"name": "Unity Pro (DSAR)", "group": "En service"},{"name": "RSLogix 5000 (DSAR)", "group": "En service"},{"name": "PL7 (SAV)", "group": "En service"},{"name": "Unity (SAV)", "group": "En service"},{"name": "RSLogix 5000 (SEC)", "group": "En service"},{"name": "PLC 5 (SEC)", "group": "En service"},{"name": "PLC 500 (SEC)", "group": "En service"},{"name": "PL7 PRO (SEC)", "group": "En service"},{"name": "RSLogix 5000 (SEG)", "group": "En service"},{"name": "InfoWorks ICM", "group": "En service"},{"name": "Odastat-G", "group": "En service"},{"name": "Labsolution", "group": "En service"},{"name": "GEN 5", "group": "En service"},{"name": "Power IQ", "group": "En service"},{"name": "ServicePilot", "group": "En service"},{"name": "MORPHOEXPERT", "group": "En service"},{"name": "GALAXY", "group": "En service"},{"name": "Cyberwatch", "group": "En service"},{"name": "Messagerie Exchange", "group": "En service"},{"name": "Tetra Damm", "group": "En service"},{"name": "VNC Viewer", "group": "En service"},{"name": "Cellsens", "group": "En service"},{"name": "Base CGI", "group": "En service"},{"name": "Comm2100 (SEC)", "group": "En service"},{"name": "PactWare", "group": "En service"},{"name": "WALLIX (DSI)", "group": "En service"},{"name": "WALLIX (SAV SCC)", "group": "En service"},{"name": "TestoConfort", "group": "En service"},{"name": "VistaChrom (SEG)", "group": "En service"},{"name": "VistaChrom (SAV)", "group": "En service"},{"name": "BIOHIT (DL)", "group": "En service"},{"name": "SOLAAR", "group": "En service"},{"name": "Microsoft Project", "group": "En service"},{"name": "Tomanager", "group": "En service"},{"name": "Vega PactWare", "group": "En service"},{"name": "Ultraflux LS600W", "group": "En service"},{"name": "JM Concept Setline", "group": "En service"},{"name": "JM Concept Ixlog-Telis", "group": "En service"},{"name": "Sfere MC vision", "group": "En service"},{"name": "Environnement SA Wex", "group": "En service"},{"name": "Topkapi Îlot Herblay", "group": "En service"},{"name": "Comm2100 (SEG)", "group": "En service"},{"name": "Plug&Track", "group": "En service"},{"name": "Antidote", "group": "En service"},{"name": "Gestion et planification Dépotage_Réactifs (SEV)", "group": "En service"},{"name": "Excel", "group": "En service"},{"name": "Word", "group": "En service"},{"name": "PowerPoint", "group": "En service"},{"name": "Outlook", "group": "En service"},{"name": "OneNote", "group": "En service"},{"name": "Teams", "group": "En service"},{"name": "Stream", "group": "En service"},{"name": "Power BI", "group": "En service"},{"name": "Power Automate", "group": "En service"},{"name": "Visio", "group": "En service"},{"name": "Planner", "group": "En service"},{"name": "ToDo", "group": "En service"},{"name": "Forms", "group": "En service"},{"name": "Sartorius Wedge (DL)", "group": "En service"},{"name": "Autodesk Revit", "group": "En service"},{"name": "Autodesk Civil 3D", "group": "En service"},{"name": "Autodesk ReCap Pro", "group": "En service"},{"name": "Gestion consignation (Service 2)", "group": "En service"},{"name": "Gestion des consignations (SEG)", "group": "En service"},{"name": "ORAGES (SAV)", "group": "En service"},{"name": "ORAGES (SEM)", "group": "En service"},{"name": "Jabra Xpress", "group": "En service"},{"name": "Apple Devices", "group": "En service"},{"name": "MailExpress", "group": "En service"},{"name": "Lists", "group": "En service"},{"name": "Autodesk Storm and Sanitary Analysis", "group": "En service"},{"name": "MobaXterm", "group": "En service"},{"name": "Oracle VM VirtualBox", "group": "En service"},{"name": "Panel Pilot", "group": "En service"},{"name": "Visual Studio", "group": "En service"},{"name": "Sentinel", "group": "En service"},{"name": "Iremos Crisis", "group": "En service"},{"name": "Tyre-X", "group": "En service"},{"name": "Cisco DNA Center", "group": "En service"},{"name": "Commvault", "group": "En service"},{"name": "Pure storage", "group": "En service"},{"name": "Matlab", "group": "En service"},{"name": "SYPROS", "group": "En service"},{"name": "XLStat", "group": "En service"},{"name": "COBAZ (AFNOR)", "group": "En service"},{"name": "ProSe", "group": "En service"},{"name": "Serveurs de fichiers", "group": "En service"},{"name": "Serveur de fichiers Coripes", "group": "En service"},{"name": "HSE Compliance (Red-on-line)", "group": "En service"},{"name": "e-folio", "group": "En service"},{"name": "Opéra (AFNOR)", "group": "En service"},{"name": "Cerbère", "group": "En service"},{"name": "R-studio", "group": "En service"},{"name": "Sitadel", "group": "En service"},{"name": "SharePoint", "group": "En service"},{"name": "OneDrive", "group": "En service"},{"name": "VeoliaLink", "group": "En service"},{"name": "Anaconda (Python)", "group": "Futur"},{"name": "Espace client certification (AFNOR)", "group": "En service"},{"name": "Parcours croisé (AFNOR)", "group": "En service"},{"name": "Mnesys Expo", "group": "Futur"},{"name": "PTouch", "group": "Futur"},{"name": "Sites presse (abo revues)", "group": "En service"},{"name": "Olvid", "group": "En service"},{"name": "SYPROS (SEG)", "group": "En service"},{"name": "Tournée Messager", "group": "En service"},{"name": "BASTA", "group": "Décomissionnement en cours"},{"name": "Base Unique d'Auto-surveillance", "group": "En service"},{"name": "GRR", "group": "En service"},{"name": "GEDEau Actions (FAA)", "group": "En service"},{"name": "GEDEau QES'Doc (Qualité)", "group": "En service"},{"name": "SIP2", "group": "En service"},{"name": "biblieau_siaap_fr", "group": "Hors Service"},{"name": "Eattestations", "group": "En service"},{"name": "COVADIS", "group": "En service"},{"name": "COSTOLWIN", "group": "En service"},{"name": "Windesign", "group": "En service"},{"name": "PACiS (SIVAL)", "group": "En service"},{"name": "Aveva SystemPlateform_IDE (SIVAL)", "group": "En service"},{"name": "SNCC SIVAL (InTouch)", "group": "En service"},{"name": "EQM", "group": "En service"},{"name": "GéoSIAAP", "group": "En service"},{"name": "GLPI (DSI)", "group": "En service"},{"name": "ATAL", "group": "En service"},{"name": "Elise", "group": "En service"},{"name": "Prorisq", "group": "En service"},{"name": "RH21", "group": "En service"},{"name": "COS Election", "group": "En service"},{"name": "SGCS", "group": "En service"},{"name": "SNCC DI (Panorama)", "group": "Hors Service"},{"name": "GTB (Colombes)", "group": "En service"},{"name": "PACiS (SAV)", "group": "En service"},{"name": "PACiS (VAL)", "group": "En service"},{"name": "PACiS (SEG)", "group": "En service"},{"name": "PACiS (SEC et SPID)", "group": "En service"},{"name": "Commander Connect (SAV)", "group": "En service"},{"name": "Commander Connect (JC)", "group": "En service"},{"name": "ALERT SAM", "group": "En service"},{"name": "ALERT SEM", "group": "En service"},{"name": "ALERT MAV", "group": "En service"},{"name": "ALERT SEG", "group": "En service"},{"name": "CVMail", "group": "Hors Service"},{"name": "Aveva SystemPlateform_IDE (SEM)", "group": "En service"},{"name": "Orphée (SAV)", "group": "En service"},{"name": "Fox EVO _ IDE (SAV)", "group": "En service"},{"name": "Aveva SystemPlateform_IDE (SEG)", "group": "En service"},{"name": "Hypervision PCS5 (SAV)", "group": "Futur"},{"name": "ALX70", "group": "En service"},{"name": "CANECO (SEG)", "group": "En service"},{"name": "CANECO (SAM)", "group": "En service"},{"name": "CANECO (SEC)", "group": "En service"},{"name": "Gaïa", "group": "Hors Service"},{"name": "GEF", "group": "En service"},{"name": "GLPI (SAV-SCC)", "group": "En service"},{"name": "GLPI (SAV-Méthodes)", "group": "En service"},{"name": "Kolibri", "group": "En service"},{"name": "Y-ARI", "group": "En service"},{"name": "eMonitor", "group": "En service"},{"name": "MICROSESAME", "group": "En service"},{"name": "Vidéosurveillance SAV (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance SEM (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance JC (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance Nanterre (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance Clichy (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance MAV (Genetec SC_)", "group": "En service"},{"name": "Vidéosurveillance SEM (RS Manager)", "group": "Hors Service"},{"name": "Fleet Manager II (SAV)", "group": "En service"},{"name": "Fleet Manager II (SEC)", "group": "Hors Service"},{"name": "Fleet Manager II (SEG)", "group": "En service"},{"name": "Tadéo BOX", "group": "En service"},{"name": "StradaTime (SAV)", "group": "En service"},{"name": "StradaTime (DAL)", "group": "En service"},{"name": "WINKHAUS JC", "group": "En service"},{"name": "WINKHAUS Clichy", "group": "En service"},{"name": "Parapheur électronique AWS-Signature", "group": "Hors Service"},{"name": "Eyes of Network (DSI)", "group": "En service"},{"name": "Nagios (DSAR)", "group": "En service"},{"name": "Eyes of Network (SAV)", "group": "En service"},{"name": "Eyes of Network (SEC)", "group": "En service"},{"name": "GRIF Workshop", "group": "En service"},{"name": "NetGeo2", "group": "Futur"},{"name": "ALWIN", "group": "Hors Service"},{"name": "GTB JC", "group": "En service"},{"name": "GTB Campus", "group": "En service"},{"name": "Logitruck", "group": "En service"},{"name": "Truck Flow", "group": "Futur"},{"name": "G'NEX (SAE)", "group": "En service"},{"name": "G'NEX (Patrimoine)", "group": "Non Utilisé"},{"name": "Main courante Pompiers (EPSITRONIC)", "group": "En service"},{"name": "SICK MEAC", "group": "En service"},{"name": "NOVA Taxation", "group": "En service"},{"name": "Main courante Osiris Sécurity", "group": "Hors Service"},{"name": "Vidéosurveillance SAV (HIKVision Nashe)", "group": "En service"},{"name": "Vidéosurveillance SEG (Genetec SC_)", "group": "En service"},{"name": "Triconex", "group": "En service"},{"name": "GLEPI SODEX (SAM)", "group": "En service"},{"name": "GLEPI SODEX (SAV)", "group": "En service"},{"name": "GLEPI SODEX (SEC)", "group": "En service"},{"name": "Pastis", "group": "En service"},{"name": "Anti-intrusion Honeywell (SAV)", "group": "En service"},{"name": "Anti-intrusion Honeywell (LCDEA)", "group": "En service"},{"name": "Active Directory (DSAR)", "group": "En service"},{"name": "Vidéosurveillance SEC (BOSCH)", "group": "Hors Service"},{"name": "CLIQ MANAGER", "group": "En service"},{"name": "Active Directory (SEC)", "group": "En service"},{"name": "Active Directory (UPBD)", "group": "En service"},{"name": "Active Directory (UPEI SCC)", "group": "En service"},{"name": "Active Directory (UPEI RSI)", "group": "En service"},{"name": "Active Directory (UPEI VSCC)", "group": "En service"},{"name": "Mur d'images SAV", "group": "En service"},{"name": "Sécurité Incendie SAV (Nugelec)", "group": "En service"},{"name": "Sécurité Incendie SAV (Chubb)", "group": "En service"},{"name": "Sécurité Incendie SAV (Sicli)", "group": "En service"},{"name": "Sécurité Incendie SAV (Sefi)", "group": "En service"},{"name": "Sécurité Incendie SAV (Def)", "group": "En service"},{"name": "Sécurité Incendie SAV (Siemens)", "group": "En service"},{"name": "Sécurité Incendie SEC (Def)", "group": "En service"},{"name": "Sécurité Incendie SEG (Def)", "group": "En service"},{"name": "Sécurité Incendie DSI (ioLogik)", "group": "En service"},{"name": "Main courante SAV (Guardtek)", "group": "En service"},{"name": "Synoptique PCC AIII Management visuel", "group": "Hors Service"},{"name": "Winstar", "group": "En service"},{"name": "Mur d'images SEG", "group": "Futur"},{"name": "Gestion de l'information_écrans (Service 1 et 5)", "group": "En service"},{"name": "Appli Gestion des livraisons réactifs (Service 2)", "group": "En service"},{"name": "Appli Enregistrement_recherche des observations (Service 2)", "group": "En service"},{"name": "Appli d'aide à la Gestion des membranaires (Service 2)", "group": "En service"},{"name": "Appli Surveillance santé membranaires (Service 2)", "group": "En service"},{"name": "Appli Recherche matériel (PID_doc technique) (Service 2)", "group": "En service"},{"name": "Appli Tableau de bord (Service 2)", "group": "En service"},{"name": "WAM Alarm Clichy", "group": "En service"},{"name": "WAM Alarm La Briche", "group": "En service"},{"name": "Statistiques Pont Peseur CO", "group": "En service"},{"name": "DS AGILE", "group": "En service"},{"name": "VERTELIS", "group": "En service"},{"name": "Vidéosurveillance DSAR Pierrelaye (Genetec SC_)", "group": "Futur"},{"name": "Keyware", "group": "En service"},{"name": "Noam Engineering", "group": "En service"},{"name": "Outil de pesage Colombes", "group": "Futur"},{"name": "SimonsVoss (LCDEA)", "group": "En service"},{"name": "MESURESTEP", "group": "En service"},{"name": "Data Logger Transfer", "group": "En service"},{"name": "adhesion-cos", "group": "En service"},{"name": "CORIDEMAT", "group": "En service"},{"name": "BO RH", "group": "En service"},{"name": "GUEPARDS", "group": "En service"},{"name": "Normea", "group": "En service"},{"name": "Biblieau", "group": "En service"},{"name": "eSocialOffice", "group": "En service"},{"name": "Intranet", "group": "En service"},{"name": "Preventiel", "group": "En service"},{"name": "siaap_fr", "group": "En service"},{"name": "Mémeau [Mnesys]", "group": "En service"},{"name": "Kbox", "group": "En service"},{"name": "Talent", "group": "En service"},{"name": "ORAGES (SEG)", "group": "En service"},{"name": "Indicateurs de disponibilité (SEG)", "group": "En service"},{"name": "DEMAO (SAV)", "group": "En service"},{"name": "MeSeine (Topkapi + Aquacalc)", "group": "En service"},{"name": "SNAPI-CAP", "group": "En service"},{"name": "SNAPI-RDVEMPLOI", "group": "En service"},{"name": "GEDEau (Base Marchés)", "group": "Décomissionnement en cours"},{"name": "Hypervision (DT)", "group": "Futur"},{"name": "Atelier salarial", "group": "En service"},{"name": "Lames d’eau Météo France", "group": "En service"},{"name": "Portail Météo France", "group": "En service"},{"name": "EDEN", "group": "En service"},{"name": "CARL Source", "group": "En service"},{"name": "e-GF", "group": "En service"},{"name": "GEDEau (GED et espaces collaboratifs généraux)", "group": "En service"},{"name": "AGILIMS", "group": "En service"},{"name": "MAGES", "group": "En service"},{"name": "Aquedi", "group": "En service"},{"name": "Chronogestor", "group": "En service"},{"name": "CIVI-RH", "group": "En service"},{"name": "EVE'M", "group": "En service"},{"name": "SNCC SAV UPBD - Panorama (SAV)", "group": "En service"},{"name": "SNCC SAV UPEI- Foxboro (SAV)", "group": "En service"},{"name": "Oxymel", "group": "En service"},{"name": "PlanetPress", "group": "En service"},{"name": "FAST", "group": "En service"},{"name": "GTC DSAR (PCVue)", "group": "En service"},{"name": "SNCC Sésame (InTouch)", "group": "En service"},{"name": "SNCC Crosne (InTouch)", "group": "En service"},{"name": "SNCC MAV (RSView)", "group": "En service"},{"name": "SNCC SEC Clichy (InTouch)", "group": "En service"},{"name": "SNCC SEC Colombes (RSView)", "group": "En service"},{"name": "SNCC SEC La Briche (InTouch)", "group": "En service"},{"name": "SIOE", "group": "En service"},{"name": "ALERT DSAR", "group": "En service"},{"name": "CORIPES (e-FP)", "group": "En service"},{"name": "SNCC SEM (InTouch)", "group": "En service"},{"name": "SNCC SEG (InTouch)", "group": "En service"},{"name": "TOIP_Avaya", "group": "En service"},{"name": "iParapheur", "group": "En service"},{"name": "OPS", "group": "En service"},{"name": "Portail Chorus Pro", "group": "En service"},{"name": "Portail DGFIP (HELIOS)", "group": "En service"},{"name": "SIS-AWS", "group": "En service"},{"name": "TotEM", "group": "En service"},{"name": "Pass-SIAAP", "group": "En service"},{"name": "SKF @ptitude Observer", "group": "En service"},{"name": "XéMélios", "group": "En service"},{"name": "Base Access SAV Effectif", "group": "En service"},{"name": "Base Access SAV Éléments variables Paie", "group": "En service"},{"name": "Base Access SAV Tickets restaurant", "group": "En service"},{"name": "Active Directory (DSI-SI Gestion)", "group": "En service"},{"name": "CORIBUDG", "group": "En service"},{"name": "BO Finances", "group": "En service"},{"name": "Portail vigicrues", "group": "En service"},{"name": "SIS-Marchés", "group": "En service"},{"name": "ArcGIS", "group": "En service"},{"name": "AutoCAD Map", "group": "En service"},{"name": "AutoCAD LT", "group": "En service"},{"name": "DHI West", "group": "En service"},{"name": "QES'Doc Ennov", "group": "En service"},{"name": "Zed! Pro", "group": "En service"},{"name": "Autodesk Navisworks Manage", "group": "En service"},{"name": "Forticlient VPN", "group": "En service"},{"name": "AutoDesk DWG TrueView", "group": "En service"},{"name": "VLC Media Player", "group": "En service"},{"name": "Adobe Illustrator", "group": "En service"},{"name": "Adobe InDesign", "group": "En service"},{"name": "Adobe Photoshop", "group": "En service"},{"name": "Adobe Premiere Pro", "group": "En service"},{"name": "Autodesk Design Review", "group": "En service"},{"name": "Autodesk Navisworks Freedom", "group": "En service"},{"name": "Citrix Receiver", "group": "En service"},{"name": "FileOpen Client", "group": "En service"},{"name": "Notepad++", "group": "En service"},{"name": "Zone central", "group": "En service"},{"name": "Sage Ciel Compta", "group": "En service"},{"name": "Libersign", "group": "En service"},{"name": "Wireshark", "group": "En service"},{"name": "Putty", "group": "En service"},{"name": "PG Admin", "group": "En service"},{"name": "Adobe Acrobat Pro", "group": "En service"},{"name": "Qgis", "group": "En service"},{"name": "7-Zip", "group": "En service"},{"name": "Trimble Connect", "group": "En service"},{"name": "Autocad Electrical", "group": "En service"},{"name": "Portail Microsoft 365 (Office)", "group": "En service"},{"name": "_Net Framework", "group": "En service"},{"name": "Lenovo System Update", "group": "En service"},{"name": "Zed! free", "group": "En service"}],"links":[{
+          "source": "EVE'M",
+          "target": "GTC DSAR (PCVue)",
+          "value": "FTP - (vide)"
+        },{
+          "source": "GTC DSAR (PCVue)",
+          "target": "EVE'M",
+          "value": "FTP - (vide)"
+        },{
+          "source": "GEDEau (GED et espaces collaboratifs généraux)",
+          "target": "siaap_fr",
+          "value": "HTTPS - (vide)"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "Mémeau [Mnesys]",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "TOIP_Avaya",
+          "target": "Active Directory (DSI-SI Gestion)",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "TOIP_Avaya",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "CIVI-RH",
+          "target": "Base Access SAV Effectif",
+          "value": "DHCP - Fichier Plat"
+        },{
+          "source": "Base Access SAV Effectif",
+          "target": "CIVI-RH",
+          "value": "DHCP - Fichier Plat"
+        },{
+          "source": "Chronogestor",
+          "target": "Base Access SAV Effectif",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Base Access SAV Effectif",
+          "target": "Chronogestor",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Base Access SAV Éléments variables Paie",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Base Access SAV Éléments variables Paie",
+          "target": "CIVI-RH",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Chronogestor",
+          "target": "Base Access SAV Éléments variables Paie",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Base Access SAV Éléments variables Paie",
+          "target": "Chronogestor",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Base Access SAV Tickets restaurant",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Base Access SAV Tickets restaurant",
+          "target": "CIVI-RH",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Chronogestor",
+          "target": "Base Access SAV Tickets restaurant",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Base Access SAV Tickets restaurant",
+          "target": "Chronogestor",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "AGILIMS",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "EDEN",
+          "target": "SIOE",
+          "value": "FTP - (vide)"
+        },{
+          "source": "SIOE",
+          "target": "EDEN",
+          "value": "FTP - (vide)"
+        },{
+          "source": "GTC DSAR (PCVue)",
+          "target": "ALERT DSAR",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "ALERT DSAR",
+          "target": "GTC DSAR (PCVue)",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "EDEN",
+          "target": "MeSeine (Topkapi + Aquacalc)",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "EDEN",
+          "target": "GTC DSAR (PCVue)",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "GTC DSAR (PCVue)",
+          "target": "EDEN",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "EDEN",
+          "target": "MAGES",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "MAGES",
+          "target": "EDEN",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Lames d’eau Météo France",
+          "target": "MAGES",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "MAGES",
+          "target": "EVE'M",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "SNCC MAV (RSView)",
+          "target": "Aquedi",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "SNCC SEM (InTouch)",
+          "target": "Aquedi",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "SNCC SEC Colombes (RSView)",
+          "target": "Aquedi",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "SNCC SEC Clichy (InTouch)",
+          "target": "Aquedi",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "SNCC SEC La Briche (InTouch)",
+          "target": "Aquedi",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "Aquedi",
+          "value": "Auth - Auth"
+        },{
+          "source": "AGILIMS",
+          "target": "Aquedi",
+          "value": "Web Services - (vide)"
+        },{
+          "source": "Aquedi",
+          "target": "AGILIMS",
+          "value": "Web Services - (vide)"
+        },{
+          "source": "ArcGIS",
+          "target": "GUEPARDS",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "Biblieau",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "OPS",
+          "target": "CARL Source",
+          "value": "Web Services - (vide)"
+        },{
+          "source": "CIVI-RH",
+          "target": "Chronogestor",
+          "value": "FTP - (vide)"
+        },{
+          "source": "Chronogestor",
+          "target": "CIVI-RH",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "BO RH",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "CIVI-RH",
+          "target": "Normea",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Preventiel",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Talent",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "eSocialOffice",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Pass-SIAAP",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "Active Directory (DSI-SI Gestion)",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "CIVI-RH",
+          "target": "e-GF",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "Active Directory (DSI-SI Gestion)",
+          "target": "Intranet",
+          "value": "(vide) - (vide)"
+        },{
+          "source": "CIVI-RH",
+          "target": "Oxymel",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "Oxymel",
+          "target": "CIVI-RH",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "PlanetPress",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "PlanetPress",
+          "target": "CIVI-RH",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "EDEN",
+          "target": "SNCC SAV UPEI- Foxboro (SAV)",
+          "value": "FTP - (vide)"
+        },{
+          "source": "SNCC SAV UPEI- Foxboro (SAV)",
+          "target": "CARL Source",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "SNCC SAV UPBD - Panorama (SAV)",
+          "target": "CARL Source",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CARL Source",
+          "target": "e-GF",
+          "value": "Web Services - (vide)"
+        },{
+          "source": "e-GF",
+          "target": "CARL Source",
+          "value": "(vide) - Fichier Plat"
+        },{
+          "source": "CIVI-RH",
+          "target": "SNAPI-RDVEMPLOI",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CIVI-RH",
+          "target": "SNAPI-CAP",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "e-GF",
+          "target": "BO Finances",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Chronogestor",
+          "target": "BO RH",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CARL Source",
+          "target": "DEMAO (SAV)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC SEG (InTouch)",
+          "target": "ORAGES (SEG)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC SEG (InTouch)",
+          "target": "Indicateurs de disponibilité (SEG)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC SAV UPBD - Panorama (SAV)",
+          "target": "Hypervision (DT)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC Crosne (InTouch)",
+          "target": "Hypervision (DT)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC SAV UPEI- Foxboro (SAV)",
+          "target": "Hypervision (DT)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SNCC Sésame (InTouch)",
+          "target": "Hypervision (DT)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Portail Météo France",
+          "target": "MeSeine (Topkapi + Aquacalc)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SIS-Marchés",
+          "target": "SIS-AWS",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SIS-AWS",
+          "target": "SIS-Marchés",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SIS-Marchés",
+          "target": "GEDEau (Base Marchés)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "SKF @ptitude Observer",
+          "target": "CARL Source",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CIVI-RH",
+          "target": "Atelier salarial",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Portail vigicrues",
+          "target": "MeSeine (Topkapi + Aquacalc)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "e-GF",
+          "target": "iParapheur",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "iParapheur",
+          "target": "e-GF",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Pass-SIAAP",
+          "target": "e-GF",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "e-GF",
+          "target": "CORIPES (e-FP)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CORIPES (e-FP)",
+          "target": "e-GF",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "BO Finances",
+          "target": "TotEM",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Portail DGFIP (HELIOS)",
+          "target": "e-GF",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "e-GF",
+          "target": "Portail DGFIP (HELIOS)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CORIBUDG",
+          "target": "TotEM",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "TotEM",
+          "target": "XéMélios",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "XéMélios",
+          "target": "Portail DGFIP (HELIOS)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Portail DGFIP (HELIOS)",
+          "target": "Portail Chorus Pro",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CORIPES (e-FP)",
+          "target": "Portail Chorus Pro",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "Portail Chorus Pro",
+          "target": "CORIPES (e-FP)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "CORIPES (e-FP)",
+          "target": "FAST",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "FAST",
+          "target": "CORIPES (e-FP)",
+          "value": " - NC - Sans objet"
+        },{
+          "source": "TotEM",
+          "target": "Kbox",
+          "value": " - NC - Sans objet"
+        }]}
